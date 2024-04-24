@@ -1,4 +1,4 @@
-
+![Our Logo](url_to_your_image)
 # Pet Inventory Management System
 Our project is about creating a pet inventory management system. This sistem will in total consist of 8 classes in order to manage with the operation of a pet supply store in more streamline and automate method.
 
