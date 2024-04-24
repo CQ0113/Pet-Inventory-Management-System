@@ -1,7 +1,7 @@
 <img src="https://github.com/CQ0113/Pet-Inventory-Management-System/blob/main/LOGO/OIG3.jpg" alt="Logo" width="75" height="75">
 
 
-# Pet Inventory Management System
+# Pet Inventory Supply System
 
 ### Synopsis and General Idea
 Our project is about creating a pet inventory management system. This sistem will in total consist of 8 classes in order to manage with the operation of a pet supply store in more streamline and automate method.
