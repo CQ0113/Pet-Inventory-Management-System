@@ -1,4 +1,4 @@
-<img src="https://github.com/CQ0113/Pet-Inventory-Management-System/blob/main/LOGO/OIG3.jpg" alt="Logo" width="75" height="75">
+<img src="https://github.com/CQ0113/Pet-Inventory-Management-System/blob/main/LOGO/OIG3.jpg" alt="Logo" width="75" height="75"  align="center">
 
 
 # Pet Inventory Supply System
